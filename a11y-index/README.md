@@ -1,63 +1,87 @@
-# Accessibility Evaluation Index (AEI)
+# Developer Guide — Information Quality Test
 
-## Overview
-The **Accessibility Evaluation Index (AEI)** is a lightweight analysis tool designed to evaluate and compare the accessibility quality of web repositories.  
-It scans HTML, JSX, and TSX files to identify accessibility-related features (such as `alt`, `aria`, and semantic tags) and computes an overall score that reflects the repository’s accessibility practices.
-
-The AEI helps developers and researchers assess how well a web project integrates inclusive design principles and identify areas for improvement.
+This project analyzes web projects for Accessibility Index (AccessInd) and evaluates Information Quality (InfoQua) through automated tests.
+It is written in TypeScript and uses Node.js with several dependencies (Plotly, Puppeteer, Chalk, etc.).
 
 ---
 
-## Objectives
-- Measure accessibility quality across multiple repositories  
-- Provide a reproducible and interpretable accessibility score (AEI)  
-- Detect missing accessibility features (labels, alt text, keyboard support)  
-- Encourage more accessible coding practices in open-source projects  
+## Getting Started
 
----
-
-## Key Concepts
-
-### Accessibility Evaluation Index (AEI)
-A numerical score between **0 and 100**, calculated using accessibility-related features normalized by the total number of HTML tags in a file.
-
-\[
-AEI = \text{clamp}(0–100) \left[ \frac{(alt + aria + semantic + label + keyboard)}{(\text{totalTags}/100)} - 10 \times penalties \right]
-\]
-
-### Accessibility Features
-| Metric | Description |
-|--------|--------------|
-| **altCount** | Number of `<img>` tags with non-empty `alt` attributes |
-| **ariaCount** | Elements using valid `aria-*` attributes |
-| **semanticCount** | Use of semantic HTML5 elements (`<header>`, `<main>`, `<section>`, etc.) |
-| **labelCount** | `<label>` elements linked to form inputs |
-| **keyboardCount** | Keyboard support (`tabindex`, key events) |
-| **penalties** | Deductions for missing or misused accessibility attributes |
-
-Files with fewer than **50 total tags** are ignored to avoid noise from small fragments or test files.
-
----
-
-## ⚙️ Features
-- Scans repositories automatically and outputs JSON summaries  
-- Normalizes accessibility scores by file size and tag density  
-- Provides repository-level averages for quick comparison  
-- Modular and easy to extend to other accessibility heuristics  
-
----
-
-## Repositories Analyzed
-The AEI was tested on the following ten repositories:
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/a11yproject/a11yproject.com.git
-git clone https://github.com/twbs/bootstrap.git
-git clone https://github.com/facebook/docusaurus.git
-git clone https://github.com/gatsbyjs/gatsby.git
-git clone https://github.com/gohugoio/hugoDocs.git
-git clone https://github.com/vercel/next.js.git
-git clone https://github.com/reactjs/react.dev.git
-git clone https://github.com/readthedocs/readthedocs.org.git
-git clone https://github.com/julwalt/static-accessibility.git
-git clone https://github.com/julwalt/website.git
+git clone <your-repo-url>
+cd a11y-index
+```
+
+### 2. Install dependencies
+
+After cloning, install all required dependencies:
+
+```bash
+npm install
+```
+
+This will recreate the `node_modules` directory based on `package.json` and `package-lock.json`.
+
+---
+
+## Running the Analyzer
+
+### Analyze a project
+
+Run the accessibility analyzer on a target website directory:
+
+```bash
+npm run analyze <path-to-project>
+```
+
+Example:
+
+```bash
+npm run analyze ../a11yproject.com
+```
+
+This will output:
+
+* File-level Accessibility Index scores
+* Feature influence summary
+* Average AcessInd and grade
+* A structured summary in `out/test.json`
+
+---
+
+## Running Information Quality Tests
+
+To validate the integrity and interpretability of results, run:
+
+```bash
+npm run test:iq
+```
+
+This command:
+
+* Executes all quality and interpretability checks
+* Generates a summary in `iq_results.json` and `iq_summary.txt`
+* Creates a visual chart in `quality_report.png`
+
+---
+
+## Common Commands
+
+| Command                              | Description                           |
+| ------------------------------------ | ------------------------------------- |
+| `npm install`                        | Installs all dependencies             |
+| `npm run analyze <path>`             | Runs accessibility index analysis     |
+| `npm run test:iq`                    | Runs information quality tests        |
+| `rm -rf node_modules && npm install` | Reinstalls dependencies (clean setup) |
+
+
+---
+
+## Notes for Developers
+
+* Always run `npm install` before executing the analyzer to ensure dependencies are up to date.
+* The `out/` folder contains generated results and reports.
+* If `puppeteer` fails due to sandbox restrictions, try running with `--no-sandbox` as configured in `qualityTest.ts`.
+
