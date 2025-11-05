@@ -1,0 +1,122 @@
+[
+  {
+    "id": "FE1",
+    "criterion": "Free of Error",
+    "name": "No exceptions",
+    "passed": true
+  },
+  {
+    "id": "FE2",
+    "criterion": "Free of Error",
+    "name": "Unique files",
+    "passed": true
+  },
+  {
+    "id": "FE3",
+    "criterion": "Free of Error",
+    "name": "UTF-8 valid",
+    "passed": true
+  },
+  {
+    "id": "FE4",
+    "criterion": "Free of Error",
+    "name": "Deterministic scanning",
+    "passed": true
+  },
+  {
+    "id": "FE5",
+    "criterion": "Free of Error",
+    "name": "Deterministic detection",
+    "passed": true
+  },
+  {
+    "id": "FE6",
+    "criterion": "Free of Error",
+    "name": "Score schema valid",
+    "passed": true
+  },
+  {
+    "id": "FE7",
+    "criterion": "Free of Error",
+    "name": "Score 0–100",
+    "passed": true
+  },
+  {
+    "id": "FE8",
+    "criterion": "Free of Error",
+    "name": "No NaN in tags",
+    "passed": true
+  },
+  {
+    "id": "FE9",
+    "criterion": "Free of Error",
+    "name": "Stable feature count",
+    "passed": true
+  },
+  {
+    "id": "FE10",
+    "criterion": "Free of Error",
+    "name": "Baseline consistency",
+    "passed": true
+  },
+  {
+    "id": "INT1",
+    "criterion": "Interpretability",
+    "name": "Human-readable explanation",
+    "passed": true
+  },
+  {
+    "id": "INT2",
+    "criterion": "Interpretability",
+    "name": "Weights provided",
+    "passed": true
+  },
+  {
+    "id": "INT3",
+    "criterion": "Interpretability",
+    "name": "Unit specified",
+    "passed": true
+  },
+  {
+    "id": "INT4",
+    "criterion": "Interpretability",
+    "name": "Traceability via counts",
+    "passed": true
+  },
+  {
+    "id": "INT5",
+    "criterion": "Interpretability",
+    "name": "Detections have file+line",
+    "passed": true
+  },
+  {
+    "id": "INT6",
+    "criterion": "Interpretability",
+    "name": "Threshold config exists",
+    "passed": true
+  },
+  {
+    "id": "INT7",
+    "criterion": "Interpretability",
+    "name": "Results JSON written",
+    "passed": true
+  },
+  {
+    "id": "INT8",
+    "criterion": "Interpretability",
+    "name": "README documents scoring logic",
+    "passed": true
+  },
+  {
+    "id": "INT9",
+    "criterion": "Interpretability",
+    "name": "Numeric formatting consistent",
+    "passed": true
+  },
+  {
+    "id": "INT10",
+    "criterion": "Interpretability",
+    "name": "Interpretability summary complete",
+    "passed": true
+  }
+]

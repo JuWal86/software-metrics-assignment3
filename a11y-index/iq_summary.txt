@@ -1,0 +1,20 @@
+FE1	No exceptions	PASS
+FE2	Unique files	PASS
+FE3	UTF-8 valid	PASS
+FE4	Deterministic scanning	PASS
+FE5	Deterministic detection	PASS
+FE6	Score schema valid	PASS
+FE7	Score 0–100	PASS
+FE8	No NaN in tags	PASS
+FE9	Stable feature count	PASS
+FE10	Baseline consistency	PASS
+INT1	Human-readable explanation	PASS
+INT2	Weights provided	PASS
+INT3	Unit specified	PASS
+INT4	Traceability via counts	PASS
+INT5	Detections have file+line	PASS
+INT6	Threshold config exists	PASS
+INT7	Results JSON written	PASS
+INT8	README documents scoring logic	PASS
+INT9	Numeric formatting consistent	PASS
+INT10	Interpretability summary complete	PASS

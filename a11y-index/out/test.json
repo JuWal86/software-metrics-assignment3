@@ -1,0 +1,1498 @@
+{
+  "lowestPages": [
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/resources/index.html",
+      "ai": 41
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/authors/index.html",
+      "ai": 71
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/checklist/index.html",
+      "ai": 78
+    }
+  ],
+  "highestPages": [
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/announcements/dark-mode-support/index.html",
+      "ai": 100
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/announcements/lets-support-inert/index.html",
+      "ai": 100
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/announcements/redesign/index.html",
+      "ai": 100
+    }
+  ],
+  "featureInfluence": [
+    "ariaCount (50.5%)",
+    "semanticCount (14.8%)",
+    "altCount (13.1%)",
+    "labelCount (12.3%)",
+    "keyboardCount (8.0%)",
+    "Other (1.2%)"
+  ],
+  "averageAI": 97,
+  "grade": "green",
+  "results": [
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/announcements/dark-mode-support/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 8,
+        "ariaCount": 22,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 10,
+        "penalties": 0,
+        "totalTags": 297
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/announcements/lets-support-inert/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 22,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 7,
+        "penalties": 0,
+        "totalTags": 320
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/announcements/redesign/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 8,
+        "ariaCount": 22,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 9,
+        "penalties": 0,
+        "totalTags": 303
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/a-guide-to-troublesome-ui-components/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 13,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 23,
+        "penalties": 0,
+        "totalTags": 476
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/a11y-and-other-numeronyms/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 315
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/accessibility-is-blind-people/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 10,
+        "penalties": 0,
+        "totalTags": 278
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/accessibility-seo/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 6,
+        "penalties": 0,
+        "totalTags": 531
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/accessible-data-tables/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 481
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/alt-text/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 1,
+        "penalties": 0,
+        "totalTags": 276
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/alternate-text-and-automation/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 11,
+        "ariaCount": 25,
+        "semanticCount": 11,
+        "labelCount": 6,
+        "keyboardCount": 7,
+        "penalties": 0,
+        "totalTags": 367
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/are-you-making-these-five-mistakes-when-writing-alt-text/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 17,
+        "ariaCount": 33,
+        "semanticCount": 15,
+        "labelCount": 6,
+        "keyboardCount": 14,
+        "penalties": 0,
+        "totalTags": 455
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/aria-has-perfect-support/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 23,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 7,
+        "penalties": 0,
+        "totalTags": 359
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/aria-landmark-roles/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 22,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 7,
+        "penalties": 0,
+        "totalTags": 387
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/automated-tools-can-ensure-full-accessibility-compliance/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 4,
+        "penalties": 0,
+        "totalTags": 258
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/blind-people-need-to-be-considered-more-when-making-data-visualizations/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 4,
+        "penalties": 0,
+        "totalTags": 266
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/check-contrast-with-mobile-device/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 1,
+        "penalties": 0,
+        "totalTags": 253
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/creating-valid-and-accessible-links/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 10,
+        "labelCount": 6,
+        "keyboardCount": 5,
+        "penalties": 0,
+        "totalTags": 366
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/dyslexia-fonts/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 10,
+        "labelCount": 6,
+        "keyboardCount": 4,
+        "penalties": 0,
+        "totalTags": 285
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/everyday-accessibility/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 14,
+        "ariaCount": 35,
+        "semanticCount": 16,
+        "labelCount": 6,
+        "keyboardCount": 21,
+        "penalties": 0,
+        "totalTags": 380
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/fixing-contrast-issues-on-your-own-site-and-elsewhere/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 8,
+        "ariaCount": 23,
+        "semanticCount": 10,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 297
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/future-proof-your-accessibility/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 5,
+        "penalties": 0,
+        "totalTags": 286
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/getting-started-aria/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 28,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 14,
+        "penalties": 0,
+        "totalTags": 575
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/getting-started-talkback/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 8,
+        "penalties": 0,
+        "totalTags": 323
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/getting-started-with-nvda/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 9,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 6,
+        "penalties": 0,
+        "totalTags": 393
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/getting-started-with-orca/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 6,
+        "penalties": 0,
+        "totalTags": 368
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/getting-started-with-voiceover/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 8,
+        "ariaCount": 23,
+        "semanticCount": 10,
+        "labelCount": 6,
+        "keyboardCount": 5,
+        "penalties": 0,
+        "totalTags": 341
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/getting-started-with-voiceover-ios/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 8,
+        "ariaCount": 23,
+        "semanticCount": 10,
+        "labelCount": 6,
+        "keyboardCount": 4,
+        "penalties": 0,
+        "totalTags": 324
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/how-i-deal-with-colorblindness-as-a-digital-product-designer/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 259
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/how-to-accessible-heading-structure/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 10,
+        "ariaCount": 28,
+        "semanticCount": 10,
+        "labelCount": 6,
+        "keyboardCount": 25,
+        "penalties": 0,
+        "totalTags": 688
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/how-to-use-application-role/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 34,
+        "semanticCount": 10,
+        "labelCount": 6,
+        "keyboardCount": 2,
+        "penalties": 0,
+        "totalTags": 286
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/how-to-use-the-tabindex-attribute/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 14,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 12,
+        "penalties": 0,
+        "totalTags": 443
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/how-to-write-accessible-forms/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 8,
+        "ariaCount": 22,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 6,
+        "penalties": 0,
+        "totalTags": 665
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/introduction-to-wai/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 284
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/large-touch-targets/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 9,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 2,
+        "penalties": 0,
+        "totalTags": 296
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/learning-common-keyboard-shortcuts-for-screen-readers/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 9,
+        "ariaCount": 23,
+        "semanticCount": 10,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 294
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/lets-say-the-word-disability/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 6,
+        "penalties": 0,
+        "totalTags": 280
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/macos-browser-keyboard-navigation/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 15,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 9,
+        "penalties": 0,
+        "totalTags": 341
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/navigate-using-just-your-keyboard/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 2,
+        "penalties": 0,
+        "totalTags": 269
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/never-use-auto-play/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 4,
+        "penalties": 0,
+        "totalTags": 293
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/never-use-maximum-scale/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 4,
+        "penalties": 0,
+        "totalTags": 309
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/operating-system-and-browser-accessibility-display-modes/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 13,
+        "ariaCount": 33,
+        "semanticCount": 15,
+        "labelCount": 6,
+        "keyboardCount": 63,
+        "penalties": 0,
+        "totalTags": 879
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/placeholder-input-elements/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 467
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/resize-text/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 14,
+        "penalties": 0,
+        "totalTags": 378
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/reviewing-a-design-for-accessibility/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 11,
+        "penalties": 0,
+        "totalTags": 311
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/should-i-use-an-accessibility-overlay/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 11,
+        "penalties": 0,
+        "totalTags": 521
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/skip-nav-links/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 2,
+        "penalties": 0,
+        "totalTags": 390
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/starting-a-design-with-accessibility/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 8,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 10,
+        "penalties": 0,
+        "totalTags": 321
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/text-resizing-in-ios-and-android/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 276
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/the-power-of-chatgpt-as-a-cognitive-accessibility-assistive-technology-for-traumatic-brain-injury-survivors/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 12,
+        "penalties": 0,
+        "totalTags": 287
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/understanding-colourblindness/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 266
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/understanding-vestibular-disorders/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 357
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/understanding-visual-impairment/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 10,
+        "labelCount": 6,
+        "keyboardCount": 4,
+        "penalties": 0,
+        "totalTags": 290
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/using-caption-services-with-html5-video/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 467
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/using-firefox-for-accessibility-testing/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 10,
+        "penalties": 0,
+        "totalTags": 341
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/wcag2-documents/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 10,
+        "labelCount": 6,
+        "keyboardCount": 12,
+        "penalties": 0,
+        "totalTags": 342
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/what-is-color-contrast/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 2,
+        "penalties": 0,
+        "totalTags": 285
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/what-is-semantic-html/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 4,
+        "penalties": 0,
+        "totalTags": 303
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/what-is-wai/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 10,
+        "labelCount": 6,
+        "keyboardCount": 10,
+        "penalties": 0,
+        "totalTags": 327
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/resources/accessibility-for-everyone/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 4,
+        "penalties": 0,
+        "totalTags": 226
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/resources/inclusive-ux-designing-websites/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 4,
+        "penalties": 0,
+        "totalTags": 225
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/resources/introduction-to-web-accessibility/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 4,
+        "penalties": 0,
+        "totalTags": 225
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/resources/testing-accessibility/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 4,
+        "penalties": 0,
+        "totalTags": 228
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/resources/the-bootcampers-guide-to-web-accessibility/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 4,
+        "penalties": 0,
+        "totalTags": 223
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/spotlight/alex-chen/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 232
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/spotlight/anna-e-cook/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 243
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/spotlight/eriol-fox/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 235
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/spotlight/frank-elavsky/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 239
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/spotlight/gertrude-nyenyeshi/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 230
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/spotlight/josh-kim/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 238
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/spotlight/kevin-mar-molinero/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 239
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/spotlight/nic-steenhout/index.html",
+      "ai": 100,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 3,
+        "penalties": 0,
+        "totalTags": 237
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/aria-states/index.html",
+      "ai": 99,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 23,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 1,
+        "penalties": 0,
+        "totalTags": 354
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/how-to-hide-content/index.html",
+      "ai": 99,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 24,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 1,
+        "penalties": 0,
+        "totalTags": 353
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/aria-properties/index.html",
+      "ai": 98,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 23,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 1,
+        "penalties": 0,
+        "totalTags": 527
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/404.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 18,
+        "semanticCount": 6,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 200
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/about/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 22,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 260
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/accessibility-statement/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 307
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/announcements/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 258
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/code-of-conduct/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 305
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/collections/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 246
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/content-style-guide/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 580
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/contributing-guidelines/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 496
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/events/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 18,
+        "semanticCount": 6,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 195
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/follow/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 20,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 218
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/patterns/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 18,
+        "semanticCount": 6,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 196
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/privacy-and-security/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 244
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/sponsorship/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 239
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/subscribed/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 18,
+        "semanticCount": 6,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 192
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/thanks/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 18,
+        "semanticCount": 6,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 192
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/unsubscribed/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 18,
+        "semanticCount": 6,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 193
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/values/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 224
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/write-for-us/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 283
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/announcements/jammies-social-impact-award/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 8,
+        "ariaCount": 20,
+        "semanticCount": 8,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 227
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/announcements/ten-dollars-for-ten-k/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 19,
+        "semanticCount": 8,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 225
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/announcements/the-a11y-project-does-not-recommend-using-accessibility-overlay-products/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 19,
+        "semanticCount": 8,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 217
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/check-comprehension-level/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 19,
+        "semanticCount": 8,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 239
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/design-accessible-animation/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 19,
+        "semanticCount": 8,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 249
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/never-remove-css-outlines/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 20,
+        "semanticCount": 8,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 268
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/no-mouse-days/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 19,
+        "semanticCount": 8,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 254
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/people-who-use-screen-readers-dont-use-javascript/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 8,
+        "ariaCount": 19,
+        "semanticCount": 8,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 236
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/title-attributes/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 19,
+        "semanticCount": 8,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 290
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/spotlight/amy-carney/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 228
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/spotlight/rachele-ditullio/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 214
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/spotlight/segun-ola/index.html",
+      "ai": 95,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 220
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/an-indepth-guide-to-aria-roles/index.html",
+      "ai": 94,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 24,
+        "semanticCount": 9,
+        "labelCount": 6,
+        "keyboardCount": 16,
+        "penalties": 0,
+        "totalTags": 985
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/index.html",
+      "ai": 87,
+      "features": {
+        "altCount": 10,
+        "ariaCount": 21,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 3,
+        "totalTags": 283
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/posts/index.html",
+      "ai": 81,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 28,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 859
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/spotlight/index.html",
+      "ai": 80,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 22,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 11,
+        "totalTags": 319
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/team/index.html",
+      "ai": 80,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 22,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 22,
+        "totalTags": 440
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/checklist/index.html",
+      "ai": 78,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 89,
+        "semanticCount": 23,
+        "labelCount": 134,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 1597
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/authors/index.html",
+      "ai": 71,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 23,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 43,
+        "totalTags": 786
+      }
+    },
+    {
+      "file": "/Users/julwalt/Documents/PhD/Year 1/Software Metrics/Assignments/Assignment 2/Part 2/a11yproject.com/dist/resources/index.html",
+      "ai": 41,
+      "features": {
+        "altCount": 7,
+        "ariaCount": 812,
+        "semanticCount": 7,
+        "labelCount": 6,
+        "keyboardCount": 0,
+        "penalties": 0,
+        "totalTags": 3927
+      }
+    }
+  ]
+}
